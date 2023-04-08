@@ -1,7 +1,6 @@
 * {
   margin: 0;
   padding: 0;
-  /* background-image: url(./assets/bg.jpg); */
 }
 .parent {
   display: flex;
@@ -210,5 +209,7 @@ span {
 }
 .footer_link >a{
   color: gray;
+}
+.new_class{
 }
 
